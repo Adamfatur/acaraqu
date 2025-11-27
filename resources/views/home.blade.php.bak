@@ -1,0 +1,7 @@
+<x-layouts.app>
+    <x-home.hero />
+    <x-home.services />
+    <x-home.why-us />
+    <x-home.portfolio />
+    <x-home.contact-form />
+</x-layouts.app>
