@@ -1,6 +1,6 @@
 <x-layouts.app>
     @section('title', 'DigitalQu - Solusi Software & Digital Transformation')
-    @section('meta_description', 'Jasa pembuatan website, aplikasi mobile, dan pengelolaan OJS profesional. Mitra transformasi digital terpercaya untuk bisnis dan instansi Anda.')
+    @section('meta_description', 'Jasa pembuatan software custom, website WordPress profesional, dan layanan OJS terpercaya. Solusi IT lengkap untuk bisnis dan institusi Anda.')
 
     <!-- Hero Section -->
     <section class="relative py-24 lg:py-32 bg-slate-900 overflow-hidden">
@@ -65,48 +65,48 @@
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-                <!-- Service 1 -->
+                <!-- Service 1: Custom Software -->
                 <div class="bg-white p-8 rounded-[2rem] border border-iron hover:shadow-xl hover:-translate-y-2 transition duration-300 group">
                     <div class="w-16 h-16 rounded-2xl bg-blue-chill text-white flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                         <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"></path></svg>
                     </div>
-                    <h3 class="text-xl font-bold text-slate-900 mb-3">Custom Development</h3>
+                    <h3 class="text-xl font-bold text-slate-900 mb-3">Custom Software Development</h3>
                     <p class="text-gothic leading-relaxed mb-6">
-                        Pengembangan aplikasi web dan mobile (Android/iOS) yang disesuaikan spesifik dengan alur bisnis Anda.
+                        Pembuatan software berbasis web dengan teknologi terkini (PHP, Laravel, Next.js). Solusi tepat guna yang disesuaikan dengan kebutuhan dan proses bisnis Anda.
                     </p>
                     <ul class="space-y-2 text-sm text-slate-600">
-                        <li class="flex items-center gap-2"><svg class="w-4 h-4 text-blue-chill" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> ERP / CRM System</li>
-                        <li class="flex items-center gap-2"><svg class="w-4 h-4 text-blue-chill" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> E-Commerce</li>
+                        <li class="flex items-center gap-2"><svg class="w-4 h-4 text-blue-chill" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Web Application</li>
+                        <li class="flex items-center gap-2"><svg class="w-4 h-4 text-blue-chill" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> System Integration</li>
                     </ul>
                 </div>
 
-                <!-- Service 2 -->
-                <div class="bg-white p-8 rounded-[2rem] border border-iron hover:shadow-xl hover:-translate-y-2 transition duration-300 group">
-                    <div class="w-16 h-16 rounded-2xl bg-blue-chill text-white flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
-                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path></svg>
-                    </div>
-                    <h3 class="text-xl font-bold text-slate-900 mb-3">Academic System (OJS)</h3>
-                    <p class="text-gothic leading-relaxed mb-6">
-                        Spesialisasi dalam instalasi, kustomisasi, dan maintenance Open Journal Systems (OJS) untuk kampus.
-                    </p>
-                    <ul class="space-y-2 text-sm text-slate-600">
-                        <li class="flex items-center gap-2"><svg class="w-4 h-4 text-blue-chill" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> OJS 3.x Setup</li>
-                        <li class="flex items-center gap-2"><svg class="w-4 h-4 text-blue-chill" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> DOI Activation</li>
-                    </ul>
-                </div>
-
-                <!-- Service 3 -->
+                <!-- Service 2: WordPress Website -->
                 <div class="bg-white p-8 rounded-[2rem] border border-iron hover:shadow-xl hover:-translate-y-2 transition duration-300 group">
                     <div class="w-16 h-16 rounded-2xl bg-blue-chill text-white flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                         <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"></path></svg>
                     </div>
-                    <h3 class="text-xl font-bold text-slate-900 mb-3">Company Profile</h3>
+                    <h3 class="text-xl font-bold text-slate-900 mb-3">Professional WordPress Website</h3>
                     <p class="text-gothic leading-relaxed mb-6">
-                        Website profil perusahaan yang modern, responsif, dan SEO-friendly untuk meningkatkan kredibilitas.
+                        Jasa pembuatan website company profile atau toko online berbasis WordPress yang SEO-friendly. Mudah ditemukan di mesin pencari dan cocok untuk UMKM maupun korporasi.
                     </p>
                     <ul class="space-y-2 text-sm text-slate-600">
-                        <li class="flex items-center gap-2"><svg class="w-4 h-4 text-blue-chill" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Modern UI/UX</li>
-                        <li class="flex items-center gap-2"><svg class="w-4 h-4 text-blue-chill" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> CMS Integration</li>
+                        <li class="flex items-center gap-2"><svg class="w-4 h-4 text-blue-chill" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> SEO Optimized</li>
+                        <li class="flex items-center gap-2"><svg class="w-4 h-4 text-blue-chill" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Responsive Design</li>
+                    </ul>
+                </div>
+
+                <!-- Service 3: OJS Services -->
+                <div class="bg-white p-8 rounded-[2rem] border border-iron hover:shadow-xl hover:-translate-y-2 transition duration-300 group">
+                    <div class="w-16 h-16 rounded-2xl bg-blue-chill text-white flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path></svg>
+                    </div>
+                    <h3 class="text-xl font-bold text-slate-900 mb-3">OJS Setup & Upgrade</h3>
+                    <p class="text-gothic leading-relaxed mb-6">
+                        Layanan profesional untuk instalasi dan upgrade Open Journal Systems (OJS). Kami pastikan jurnal Anda berjalan aman, stabil, dan up-to-date (support upgrade 3.3 ke 3.5).
+                    </p>
+                    <ul class="space-y-2 text-sm text-slate-600">
+                        <li class="flex items-center gap-2"><svg class="w-4 h-4 text-blue-chill" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Secure Migration</li>
+                        <li class="flex items-center gap-2"><svg class="w-4 h-4 text-blue-chill" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Technical Support</li>
                     </ul>
                 </div>
             </div>
@@ -118,13 +118,13 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <p class="text-gothic font-bold uppercase tracking-widest mb-8">Teknologi Yang Kami Gunakan</p>
             <div class="flex flex-wrap justify-center gap-8 opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
-                <!-- Simple Text Placeholders for Logos to allow generic usage -->
                 <span class="text-2xl font-bold text-slate-400 hover:text-[#FF2D20]">Laravel</span>
                 <span class="text-2xl font-bold text-slate-400 hover:text-[#61DAFB]">React</span>
                 <span class="text-2xl font-bold text-slate-400 hover:text-[#42b883]">Vue.js</span>
                 <span class="text-2xl font-bold text-slate-400 hover:text-[#38B2AC]">Tailwind</span>
                 <span class="text-2xl font-bold text-slate-400 hover:text-[#777BB4]">PHP</span>
                 <span class="text-2xl font-bold text-slate-400 hover:text-[#007ACC]">Flutter</span>
+                <span class="text-2xl font-bold text-slate-400 hover:text-[#21759b]">WordPress</span>
             </div>
         </div>
     </section>
@@ -135,24 +135,24 @@
         <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
             <h2 class="text-3xl md:text-4xl font-bold text-white mb-6">Mulai Proyek Digital Anda</h2>
             <p class="text-white/90 text-lg mb-10 max-w-2xl mx-auto">
-                Setiap bisnis memiliki kebutuhan unik. Diskusikan ide Anda bersama kami dan dapatkan penawaran terbaik.
+                Dapatkan solusi IT berkualitas dengan harga bersahabat. Diskusikan ide Anda bersama kami.
             </p>
             
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-left mb-10">
                 <div class="bg-white p-6 rounded-2xl">
                     <h4 class="font-bold text-slate-900 mb-1">Landing Page</h4>
                     <p class="text-xs text-gothic mb-3">Mulai dari</p>
-                    <p class="text-2xl font-bold text-blue-chill">Rp 1.5jt</p>
+                    <p class="text-2xl font-bold text-blue-chill">Rp 500rb</p>
                 </div>
                 <div class="bg-white p-6 rounded-2xl">
                     <h4 class="font-bold text-slate-900 mb-1">Company Profile</h4>
                     <p class="text-xs text-gothic mb-3">Mulai dari</p>
-                    <p class="text-2xl font-bold text-blue-chill">Rp 3.5jt</p>
+                    <p class="text-2xl font-bold text-blue-chill">Rp 1.5jt</p>
                 </div>
                 <div class="bg-white p-6 rounded-2xl">
                     <h4 class="font-bold text-slate-900 mb-1">Custom System</h4>
                     <p class="text-xs text-gothic mb-3">Mulai dari</p>
-                    <p class="text-2xl font-bold text-blue-chill">Rp 10jt+</p>
+                    <p class="text-2xl font-bold text-blue-chill">Rp 5jt+</p>
                 </div>
             </div>
 

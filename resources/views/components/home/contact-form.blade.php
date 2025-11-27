@@ -8,9 +8,9 @@
             <!-- Left: Text & Info -->
             <div class="space-y-10" :class="shown ? 'animate-slide-right-fade' : 'opacity-0'">
                 <div>
-                    <h2 class="text-4xl md:text-6xl font-bold text-blue-chill mb-6 leading-tight">
+                    <h2 class="text-4xl md:text-6xl font-bold text-slate-900 mb-6 leading-tight">
                         Mari Bicara Tentang <br>
-                        <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-chill to-purple-600">Masa Depan.</span>
+                        <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-chill to-purple-600 animate-gradient">Masa Depan.</span>
                     </h2>
                     <p class="text-gothic text-lg leading-relaxed max-w-lg">
                         Punya proyek menarik? Atau sekadar ingin menyapa? Tim kami siap mendengarkan dan memberikan solusi terbaik untuk kebutuhan Anda.
@@ -23,7 +23,7 @@
                             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
                         </div>
                         <div>
-                            <h4 class="font-bold text-blue-chill mb-1">Email Kami</h4>
+                            <h4 class="font-bold text-slate-900 mb-1">Email Kami</h4>
                             <a href="mailto:hello@acaraqu.com" class="text-gothic hover:text-blue-chill transition-colors">hello@acaraqu.com</a>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>
                         </div>
                         <div>
-                            <h4 class="font-bold text-blue-chill mb-1">WhatsApp</h4>
+                            <h4 class="font-bold text-slate-900 mb-1">WhatsApp</h4>
                             <a href="https://wa.me/6281234567890" target="_blank" class="text-gothic hover:text-green-600 transition-colors">+62 812 3456 7890</a>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
                         </div>
                         <div>
-                            <h4 class="font-bold text-blue-chill mb-1">Studio</h4>
+                            <h4 class="font-bold text-slate-900 mb-1">Studio</h4>
                             <p class="text-gothic">Jakarta, Indonesia</p>
                         </div>
                     </div>
